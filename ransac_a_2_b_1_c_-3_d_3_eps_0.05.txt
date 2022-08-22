@@ -1,0 +1,23 @@
+Original plane: a = 2, b = 1, c = -3, d = 3
+
+RANSAC parameters:
+
+t: 1
+fs: 1000
+alpha: 0.99
+*******************************************************************
+Detected planes:
+
+Best plane: a = -0.0123, b = -0.0062, c = 0.0185, d = -0.0185
+Best std: 0.0
+Best support: 6000
+
+eps: 0.05
+Best plane: a = -0.0123, b = -0.0062, c = 0.0185, d = -0.0185
+Best std: 0.0
+Best support: 6000
+*******************************************************************
+Comparison:
+			parallel	angle/distance
+original vs. non-noisy    False        180.0/-
+original vs. noisy        False        180.0/-
