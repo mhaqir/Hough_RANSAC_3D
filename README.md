@@ -4,4 +4,4 @@ I implemented a code to generate 3D points on a hyperplane. Given a desired numb
 
 
 ##### RANSAC output for hyperplane detection
-![eps_0.05](https://github.com/mhaqir/Hough_RANSAC_3D/blob/main/ransac3d_outputs/noisy_0.05.jpg) ![eps_0.5](https://github.com/mhaqir/Hough_RANSAC_3D/blob/main/ransac3d_outputs/noisy_0.5.jpg)
+![eps_0.05](https://github.com/mhaqir/Hough_RANSAC_3D/blob/main/ransac3d_outputs/noisy_0.05.jpg =250x250) ![eps_0.5](https://github.com/mhaqir/Hough_RANSAC_3D/blob/main/ransac3d_outputs/noisy_0.5.jpg =250x250)
